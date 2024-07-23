@@ -1,0 +1,1035 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.56278279999999,
+                "lng": 120.8316598
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5640969802915,
+                    "lng": 120.8330074302915
+                },
+                "southwest": {
+                    "lat": 24.5613990197085,
+                    "lng": 120.8303094697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u9957\u8b9a\u4f70\u5143\u71b1\u7092",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1198,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118392810072986545494\">\u9957\u8b9a\u4f70\u5143\u71b1\u7092</a>"
+                ],
+                "photo_reference": "AelY_CuYAxHniQeoi5utrkO4zGPHV3Jnm418ZdCiJUMZJmDlEWeSElNmCFVeO9XeNwR3W68M0XiNmm831GGCTaiPGntTo2fnq-vThZduSPyZIPTbCqay4gF-Ap1DbZMVgZTAaPhIru67hK0R38T6yL4ZgciydEfjiOXuUPz_QU59eBuC2cUY",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ9ZWk73OsaTQR-8gwSZJDW08",
+        "plus_code": {
+            "compound_code": "HR7J+4M \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7J+4M"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJ9ZWk73OsaTQR-8gwSZJDW08",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 221,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def205\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.562997,
+                "lng": 120.831085
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5642128302915,
+                    "lng": 120.8324296302915
+                },
+                "southwest": {
+                    "lat": 24.5615148697085,
+                    "lng": 120.8297316697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u65c5\u904a\u9910\u5ef3",
+        "place_id": "ChIJi6CPknOsaTQRWh2d30_KgTI",
+        "rating": 4.3,
+        "reference": "ChIJi6CPknOsaTQRWh2d30_KgTI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def382\u865f\u4e4b1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5632133,
+                "lng": 120.8339844
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5645773802915,
+                    "lng": 120.8352150802915
+                },
+                "southwest": {
+                    "lat": 24.5618794197085,
+                    "lng": 120.8325171197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u9080\u6085\u81b3\u9928",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114991104943080679192\">\u9ece\u5c0f\u66e6</a>"
+                ],
+                "photo_reference": "AelY_Cuj9CES1zCXs1d-Fk42MhxOv34qL5vKvmNSgC5B0zrgNsW8WlOnJSjj5rtLbYtdwouZiCRKTAQyZExEhv0x_6DOXdJOtJ_3tioDPb_wIWYnrSrDnG7rET3GQjUR2GQSQNGT_U2S6bhky9VYatiUuyUWhAm1cjQWCaXWyMRpvHpgLaY-",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJHdCuFHGsaTQRlYB6qmiIJkw",
+        "plus_code": {
+            "compound_code": "HR7M+7H \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7M+7H"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJHdCuFHGsaTQRlYB6qmiIJkw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 277,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u4e8c\u885720\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5628475,
+                "lng": 120.8303571
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5641521302915,
+                    "lng": 120.8317036302915
+                },
+                "southwest": {
+                    "lat": 24.5614541697085,
+                    "lng": 120.8290056697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u4eac\u79be\u9eb5\u98df\u9928",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103183695913286917810\">\u4eac\u79be\u9eb5\u98df\u9928</a>"
+                ],
+                "photo_reference": "AelY_CtYnVJuDdpt0869416jSFM8I0UUnvzNfJHRUs_fPcc8o79m7izIYK4mBLXrj5UfD3CTJakWewDhsvl_BtDEMQqy0viWX5jYIkj68ooRi8RFaUbMrf3JPHAh05EFaG_egAzIqNj8NjV6mDeex9QjZgTyNSdI8wEl_Mc7tTcPdKKP9w7Y",
+                "width": 2774
+            }
+        ],
+        "place_id": "ChIJsTgEpietaTQRW9h6MGUHMig",
+        "plus_code": {
+            "compound_code": "HR7J+44 \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7J+44"
+        },
+        "rating": 4.3,
+        "reference": "ChIJsTgEpietaTQRW9h6MGUHMig",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 147,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def113\u4e4b2\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5629747,
+                "lng": 120.8351532
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5643063302915,
+                    "lng": 120.8366421802915
+                },
+                "southwest": {
+                    "lat": 24.5616083697085,
+                    "lng": 120.8339442197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u8303\u5bb6\u5bb4\u5ba2\u5bb6\u9910\u5ef3",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1774,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118122339781514972406\">\u8303\u5bb6\u5bb4\u5ba2\u5bb6\u9910\u5ef3</a>"
+                ],
+                "photo_reference": "AelY_CuPwrLRs-05IHEDdrtggYeA5NzIoWnQm2U9nDneBN-MAEjaGHzX6iHtw0G3vTEa-NQi40oIIiIA8Mc7ZJMvtUvRl_3BvUqRpCSK2RJqHoWyd85767MT-ZXVH2S8DVrXEBt_n2ZP-9xrdY2xLvlEdZkwSjH6IlaYkFn0WR8nAQq-CDJp",
+                "width": 2364
+            }
+        ],
+        "place_id": "ChIJydsI7e-taTQRZUFjJ2VzeA0",
+        "plus_code": {
+            "compound_code": "HR7P+53 \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7P+53"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJydsI7e-taTQRZUFjJ2VzeA0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1914,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u4e00\u88571\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5627386,
+                "lng": 120.8352747
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5640302302915,
+                    "lng": 120.8366185302915
+                },
+                "southwest": {
+                    "lat": 24.5613322697085,
+                    "lng": 120.8339205697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u5c0f\u7d05\u5c0f\u5403\u5e97",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112299757034802503100\">Enzo Chen</a>"
+                ],
+                "photo_reference": "AelY_CvQW4BfQl_I34RtwL8Rh7GSKXhF1anXfEul2J8dloMMHq5lC6PIHglDzK4kV1l9y_dFPlnB0wWSETEk1-teL3Xn4BFSwUfW9gk8BTxI9tZIwXco4FGA8eEQV9MZSiMygXM-JUCviXQFv68Sn6SldbfceSeMhWJ7kJ-wAroYU6S_oJYs",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJv8BCzBataTQRdGDOuzJHWnA",
+        "plus_code": {
+            "compound_code": "HR7P+34 \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7P+34"
+        },
+        "rating": 3.7,
+        "reference": "ChIJv8BCzBataTQRdGDOuzJHWnA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def329\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5624311,
+                "lng": 120.8352897
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5638622802915,
+                    "lng": 120.8365772802915
+                },
+                "southwest": {
+                    "lat": 24.5611643197085,
+                    "lng": 120.8338793197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u597d\u6642\u9910\u9928",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110225886719995411260\">\u597d\u6642\u9910\u9928</a>"
+                ],
+                "photo_reference": "AelY_Cu9KaxTj6yPpJiEqFsPDgiRYLU20fTMfs9VCvhY3IiATK1VYKwnRYbgOeeIPqo0ua0yqTi-IqcLVDkcFGq-wNIxlJCyaIcCkzIuZD5H9-9cJzJ3LmboB4GyGB_Yinm2RKqoYXQabCxI9HPRG3uW0coXf4XHHumr92JbDcQgLz0Aslq9",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJWcj7l0KzaTQRlEIfbL__deM",
+        "plus_code": {
+            "compound_code": "HR6P+X4 \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR6P+X4"
+        },
+        "rating": 4.4,
+        "reference": "ChIJWcj7l0KzaTQRlEIfbL__deM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 84,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8857302\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5639856,
+                "lng": 120.8301767
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5653718302915,
+                    "lng": 120.8313985802915
+                },
+                "southwest": {
+                    "lat": 24.56267386970849,
+                    "lng": 120.8287006197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u96de\u62d4\u7d72\u98df\u5802",
+        "place_id": "ChIJ--f-vtOtaTQRFE6xGIesbPU",
+        "plus_code": {
+            "compound_code": "HR7J+H3 \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7J+H3"
+        },
+        "rating": 3.4,
+        "reference": "ChIJ--f-vtOtaTQRFE6xGIesbPU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "\u82d7\u6817\u5e02\u5fa9\u8208\u8def\u56db\u6bb586\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5625233,
+                "lng": 120.8354124
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5639167802915,
+                    "lng": 120.8367653802915
+                },
+                "southwest": {
+                    "lat": 24.5612188197085,
+                    "lng": 120.8340674197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u7532\u5b50\u65e9\u5348\u9910",
+        "place_id": "ChIJVwRFIHGsaTQRwrmFpNdAkvM",
+        "plus_code": {
+            "compound_code": "HR7P+25 \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7P+25"
+        },
+        "reference": "ChIJVwRFIHGsaTQRwrmFpNdAkvM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Taiwan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5627783,
+                "lng": 120.8293644
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5641606802915,
+                    "lng": 120.8307226302915
+                },
+                "southwest": {
+                    "lat": 24.5614627197085,
+                    "lng": 120.8280246697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u6771\u8a18\u9eb5\u98df",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104900252195518941740\">HY H</a>"
+                ],
+                "photo_reference": "AelY_CsdFEmWfp0RWxSYqoV1FgBwGRgFCkwK9ijM_g-v-_3HmzbZipgYBrLIRZH6y2Mdq9CvFWdos1U9-IjmENLYXh1yD7y5IU0e304ONooSvuBSZETKmDQrIl8C0rULIOW-KVJYiPK6GVLUAeIoaY4dK_GD7_7Kg7nrs0Q_oJC-Umnzpxac",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJ-eHPfXOsaTQRMWEKo8WXRcY",
+        "plus_code": {
+            "compound_code": "HR7H+4P \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u6e05\u91cc",
+            "global_code": "7QP2HR7H+4P"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ-eHPfXOsaTQRMWEKo8WXRcY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 25,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def95\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.56204,
+                "lng": 120.8293958
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5633976802915,
+                    "lng": 120.8307853302915
+                },
+                "southwest": {
+                    "lat": 24.5606997197085,
+                    "lng": 120.8280873697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u7389\u9752\u65e9\u9910\u5e97",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100826846358780464437\">\u5289\u65b9\u96c5</a>"
+                ],
+                "photo_reference": "AelY_CsYXA4e6maL5Zsv7cckNP4cUs1rw4IEqTAShNIacYpx0SqjL9eV2IuUE2fbfMXLRDQTHVpw1fzghLOZvJVPF5Wi6cMFgsNVak2cnjyMblMro3ETCoDiPNde1zmXNNssmGuOHu6DxmAmgW30acTN_hrMiiRC56hOgRjGyAGhYi9WLDvo",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJgdkHhnSsaTQR-2bZopM4Lio",
+        "plus_code": {
+            "compound_code": "HR6H+RQ \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR6H+RQ"
+        },
+        "reference": "ChIJgdkHhnSsaTQR-2bZopM4Lio",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "\u82d7\u6817\u5e02\u5fa9\u8208\u8def\u4e09\u6bb5"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5621999,
+                "lng": 120.8288585
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5635460302915,
+                    "lng": 120.8301841802915
+                },
+                "southwest": {
+                    "lat": 24.56084806970849,
+                    "lng": 120.8274862197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u8c93\u8c8d\u65e9\u9910-\u80e1\u6912\u8525\u9905\u3001\u70e4\u9945\u982d\u3001\u86cb\u9905\u3001\u8c46\u6f3f\u3001\u7d05\u8336\u3001\u5976\u8336\u3002",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3117,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117095272307770966695\">\u5f90\u6167\u8c9e</a>"
+                ],
+                "photo_reference": "AelY_Csi1bAyz_kENX4KpFMc4YPwotKQaayBu0EpvbsxXubxpXSo-GoPqEInoLZQncsvo0XHxnspE5BOc0Qis7Cqv6G4EVC6IbUOXTokxM1jDJedofv4kpwg4oUCshwu7QDVg3Y0cOUZS4l6V7HLSw59-M-AStf9eOlwrXiv6cdkFEz-aYC_",
+                "width": 2616
+            }
+        ],
+        "place_id": "ChIJ4QMQGTStaTQRztrivVj4xeA",
+        "plus_code": {
+            "compound_code": "HR6H+VG \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR6H+VG"
+        },
+        "rating": 5,
+        "reference": "ChIJ4QMQGTStaTQRztrivVj4xeA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u885794\u5df72\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5629341,
+                "lng": 120.8287362
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5643400802915,
+                    "lng": 120.8301189802915
+                },
+                "southwest": {
+                    "lat": 24.5616421197085,
+                    "lng": 120.8274210197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u963f\u6377\u5c0f\u5403",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111299640215239949582\">\u6210\u6c57</a>"
+                ],
+                "photo_reference": "AelY_Ctah30cZjZetCx9nu1moBDh4xt9g8djWN0uzwaK3gInhYZbeRJ-FVYFQVIgS5Tfb02cV7T94_c1g0ltRqFPfT6UunmPNG7OT3TTU5bl3en9UoK-F5WW1ThiyEpTbplLPM4VJGzrazT2qekbTWs_1XfjC70N2CXkKL3kwwlfweryduei",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJo_10_xytaTQRN7-xTgY9lp8",
+        "plus_code": {
+            "compound_code": "HR7H+5F \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u83ef\u91cc",
+            "global_code": "7QP2HR7H+5F"
+        },
+        "rating": 4.2,
+        "reference": "ChIJo_10_xytaTQRN7-xTgY9lp8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def80-1\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5662571,
+                "lng": 120.8305437
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5675779802915,
+                    "lng": 120.8319845802915
+                },
+                "southwest": {
+                    "lat": 24.5648800197085,
+                    "lng": 120.8292866197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u591a\u6c41\u9999\u70b8\u96de/\u82d7\u6817\u70b8\u96de/\u82d7\u6817\u5bb5\u591c/\u82d7\u6817\u5c0f\u5403/\u82d7\u6817\u7f8e\u98df/\u9644\u8fd1\u7f8e\u98df/\u82d7\u6817\u70b8\u7269",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111304356011616878038\">\u591a\u6c41\u9999\u70b8\u96de/\u82d7\u6817\u70b8\u96de/\u82d7\u6817\u5bb5\u591c/\u82d7\u6817\u5c0f\u5403/\u82d7\u6817\u7f8e\u98df/\u9644\u8fd1\u7f8e\u98df/\u82d7\u6817\u70b8\u7269</a>"
+                ],
+                "photo_reference": "AelY_CsyLvDuVxZ5CtSJ2UJAxS5LNGIF2ffcNgDdGxSpKU2vONwTuC9eQ7K2_V7EnE-xpZP_9Kqs0TifeNHad7eFfnmbp3FHJ4AovlW48QF3fKEvhB0RczGShgtVr_hojr9hNU6UOMscQOBn_CWXYPMBuDicQOMrFiItZcZ0UMYYLB-zMzd4",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJY-p3-IOtaTQR6BWexduusVA",
+        "plus_code": {
+            "compound_code": "HR8J+G6 \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u6e05\u91cc",
+            "global_code": "7QP2HR8J+G6"
+        },
+        "rating": 4.7,
+        "reference": "ChIJY-p3-IOtaTQR6BWexduusVA",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 541,
+        "vicinity": "\u82d7\u6817\u5e02\u5fa9\u8208\u8def\u56db\u6bb5177\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5647074,
+                "lng": 120.8274054
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.56609158029151,
+                    "lng": 120.8287377302915
+                },
+                "southwest": {
+                    "lat": 24.5633936197085,
+                    "lng": 120.8260397697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u592f\u81ed\u8c46\u8150 \u82d7\u6817\u7389\u6e05\u5e97 \u5168\u5e74\u7121\u4f11",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1477,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108950399157785840504\">\u592f\u81ed\u8c46\u8150 \u82d7\u6817\u7389\u6e05\u5e97 \u5168\u5e74\u7121\u4f11</a>"
+                ],
+                "photo_reference": "AelY_Cs3kCPZ4HysekKSSf76nazxxoIzLrJsZlRi_uT1Wa1qez68-MDgKW1PmyGMXldgTHZOUjIbbL2MA4BD74Gd_KE5T0p8JrTXPMEzXz2vVNeiD56CyAcmyc6jJ0T3NckVt3KIoC8_-N_tEb1dGppalsebcao8F-LBMiE1CUEcbErykFCe",
+                "width": 1108
+            }
+        ],
+        "place_id": "ChIJ_9psXn6taTQRoncpQxgwERM",
+        "plus_code": {
+            "compound_code": "HR7G+VX \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u6e05\u91cc",
+            "global_code": "7QP2HR7G+VX"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ_9psXn6taTQRoncpQxgwERM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 96,
+        "vicinity": "\u82d7\u6817\u5e02\u70ba\u6c11\u885740\u5df716\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5635266,
+                "lng": 120.8268998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5649174802915,
+                    "lng": 120.8282436802915
+                },
+                "southwest": {
+                    "lat": 24.5622195197085,
+                    "lng": 120.8255457197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u9996\u70cf\u4e4b\u5bb6\u5e97",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102639881545203422979\">\u8303\u8ed2\u50d1\u4e0d\u52d5\u7522\u8cb7\u8ce3\uff08\u8303\u7d93\u7406\uff09</a>"
+                ],
+                "photo_reference": "AelY_Cvg4Vlqqo7UDm5EZo7dwSCAqirrsyCCUluTo1IRP_MsncqVbL3-X6WvNiAHzjkTzm4K3mXsOMg0oZ3ajfUYebEAYb5_Q_48egHf66b6yDFOelDY9-xzlYcQ3DTvf4CrJ-N8n99Etfz9G80n-lz9U6NttBJLukzEJj7ULcifdL3ACjD0",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJq8teu3CsaTQRkA8wQybkVHU",
+        "plus_code": {
+            "compound_code": "HR7G+CQ \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02",
+            "global_code": "7QP2HR7G+CQ"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJq8teu3CsaTQRkA8wQybkVHU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 127,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5640378,
+                "lng": 120.8270173
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5653710302915,
+                    "lng": 120.8282894302915
+                },
+                "southwest": {
+                    "lat": 24.5626730697085,
+                    "lng": 120.8255914697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u7389\u6e05\u6232\u68da\u4e0b\u9eb5\u5e97",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109636001932403825905\">idolkey yang</a>"
+                ],
+                "photo_reference": "AelY_CvCfDv128JrVjakncXjLsQg4w6pq2mF374WZHMJ1ZRVLcqGsj1pUV2jGfpE3YMDGSf8ZGZs9sx1kdWxQsPXJlieoMg7jyEvHqpPGLDTE7HxNmdr5SJ69qjLdmYkixm_F3G1JM1jwIQqaOCrYGsl0wKQBwpYj2LaIHSWKC8SwB4ELuft",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJeZIgTXOsaTQRE1pRKXtHYjs",
+        "plus_code": {
+            "compound_code": "HR7G+JR \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02",
+            "global_code": "7QP2HR7G+JR"
+        },
+        "rating": 4.1,
+        "reference": "ChIJeZIgTXOsaTQRE1pRKXtHYjs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 88,
+        "vicinity": "\u82d7\u6817\u5e02\u5efa\u529f\u885732\u5df7"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.563702,
+                "lng": 120.8266199
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.56499228029151,
+                    "lng": 120.8279760302915
+                },
+                "southwest": {
+                    "lat": 24.5622943197085,
+                    "lng": 120.8252780697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u7121\u540d\u71d2\u672c\u92ea",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111448668554274146760\">Daren CNEN</a>"
+                ],
+                "photo_reference": "AelY_CvgrSXowQ6Ma4Pm4vn_9vI0Q3Zo22xJNDmk_L6M_stEmPpz7ai3pjCa1mZPhMUUklHbLVORf68RTLNXGdUlFI5HJXibn5tKr85UESiLBh5hf6Yikr22oxQdi9iyMYLa_evxlxy81WKdzRwYpdlZdjvkWdG-aZxo2-NFpO2z0asS4779",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJN0HOEaqtaTQR13YjDglQQIM",
+        "plus_code": {
+            "compound_code": "HR7G+FJ \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u6e05\u91cc",
+            "global_code": "7QP2HR7G+FJ"
+        },
+        "rating": 4.6,
+        "reference": "ChIJN0HOEaqtaTQR13YjDglQQIM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def9-2\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.563702,
+                "lng": 120.8266199
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.56499228029151,
+                    "lng": 120.8279760302915
+                },
+                "southwest": {
+                    "lat": 24.5622943197085,
+                    "lng": 120.8252780697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u7389\u6e05\u5bae \u96de\u8001\u95c6",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111766720296774074454\">\u6d82\u5b8f\u660e</a>"
+                ],
+                "photo_reference": "AelY_CuW-sWFlwbZjw4fCWtf1_u2SPgJkFRJW8sDjYKMtdgccmzrUk1RxvojfGHpP-KgyuTK4WXoVu4aMSxlwMXUIE12qk8qqdjtKXVRIi_-SgO6pQZ4xDcG62_zZAyyzthIm22WDpct6C3OpsPVxlwv8SwHP_k4-Z1x3dk7RP9fCpOcgewj",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJMx0UrAysaTQRGILwepgGZfo",
+        "plus_code": {
+            "compound_code": "HR7G+FJ \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u6e05\u91cc",
+            "global_code": "7QP2HR7G+FJ"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJMx0UrAysaTQRGILwepgGZfo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 77,
+        "vicinity": "\u82d7\u6817\u5e02\u7389\u6e05\u8def9\u865f"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.5642679,
+                "lng": 120.8266099
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.5656630302915,
+                    "lng": 120.8279238802915
+                },
+                "southwest": {
+                    "lat": 24.5629650697085,
+                    "lng": 120.8252259197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u7279\u70b8\u96de\u6392\uff08\u82d7\u6817\u5e97\uff09",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 660,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107763709806472371796\">\u7279\u70b8\u96de\u6392\uff08\u82d7\u6817\u5e97\uff09</a>"
+                ],
+                "photo_reference": "AelY_CsDZIaD4r3UYTdwZK7IfpysyTaJWzcxc0aC_3lL8PeGD6bMV8ALPJIxc0lxvnYEvEJXQcd7SkvXCfaBL0JfM2RYEATp8lp3-t45OeLE4NE_glcTsHl9LgVjbP0ydoELnSxNlBnm7B0_bcy_XPu0pLDhpUjGidddBZzX0LQEghRxtp4E",
+                "width": 1170
+            }
+        ],
+        "place_id": "ChIJF6gH3WytaTQR2Huz5QnFRwk",
+        "plus_code": {
+            "compound_code": "HR7G+PJ \u53f0\u7063\u82d7\u6817\u7e23\u82d7\u6817\u5e02\u7389\u6e05\u91cc",
+            "global_code": "7QP2HR7G+PJ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJF6gH3WytaTQR2Huz5QnFRwk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 137,
+        "vicinity": "\u82d7\u6817\u5e02\u70ba\u6c11\u885730\u865f"
+    }
+]
+rate:  4.3
+rate:  ChIJ9ZWk73OsaTQR-8gwSZJDW08
+rate:  4.3
+rate:  ChIJi6CPknOsaTQRWh2d30_KgTI
+rate:  4.2
+rate:  ChIJHdCuFHGsaTQRlYB6qmiIJkw
+rate:  4.3
+rate:  ChIJsTgEpietaTQRW9h6MGUHMig
+rate:  4.7
+rate:  ChIJydsI7e-taTQRZUFjJ2VzeA0
+rate:  4.4
+rate:  ChIJWcj7l0KzaTQRlEIfbL__deM
+Caught unexpected error:'rating'
+rate:  4.6
+rate:  ChIJ-eHPfXOsaTQRMWEKo8WXRcY
+Caught unexpected error:'rating'
+rate:  5
+rate:  ChIJ4QMQGTStaTQRztrivVj4xeA
+rate:  4.2
+rate:  ChIJo_10_xytaTQRN7-xTgY9lp8
+rate:  4.7
+rate:  ChIJY-p3-IOtaTQR6BWexduusVA
+rate:  4.4
+rate:  ChIJ_9psXn6taTQRoncpQxgwERM
+rate:  4
+rate:  ChIJq8teu3CsaTQRkA8wQybkVHU
+rate:  4.1
+rate:  ChIJeZIgTXOsaTQRE1pRKXtHYjs
+rate:  4.6
+rate:  ChIJN0HOEaqtaTQR13YjDglQQIM
+rate:  4.5
+rate:  ChIJMx0UrAysaTQRGILwepgGZfo
+rate:  4.4
+rate:  ChIJF6gH3WytaTQR2Huz5QnFRwk

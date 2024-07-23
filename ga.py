@@ -1,4 +1,4 @@
-# APP
+# google APP
 import googlemaps
 import requests
 import json
@@ -11,7 +11,7 @@ import json
 # 載入 LINE Message API 相關函式庫
 from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
-# from linebot.models import MessageEvent, TextMessage, TextSendMessage
+from linebot.models import MessageEvent, TextMessage, TextSendMessage
 from linebot.models import * 
 
 from linebot.v3.messaging import MessagingApi
@@ -46,7 +46,10 @@ def handle_postback(event):
     global ID
     postback_data = event.postback.data
     print("Postback data:", postback_data)
-    line_bot_api.push_message("",[TextSendMessage(text='as;df;sldf'),])
+    # buttons_template = TemplateSendMessage(
+    #     alt_text=restaurant["name"],
+    # )
+
 
 @app.route("/", methods=['POST'])
 def linebot():
