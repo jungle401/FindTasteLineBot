@@ -1,0 +1,33 @@
+"linebot.exceptions.LineBotApiError":"LineBotApiError":status_code=400,
+request_id=6df36b27-9287-4f03-b15d-3d5e22fed115,
+"error_response="{
+   "details":[
+      {
+         "message":"invalid uri scheme",
+         "property":"template/columns/1/thumbnailImageUrl"
+      },
+      {
+         "message":"invalid uri scheme",
+         "property":"template/columns/7/thumbnailImageUrl"
+      },
+      {
+         "message":"invalid uri scheme",
+         "property":"template/columns/8/thumbnailImageUrl"
+      }
+   ],
+   "message":"A message (messages[0])\u00a0in the request body is invalid"
+},
+"headers="{
+   "Server":"legy",
+   "Content-Type":"application/json",
+   "x-content-type-options":"nosniff",
+   "x-frame-options":"DENY",
+   "x-line-request-id":"6df36b27-9287-4f03-b15d-3d5e22fed115",
+   "x-xss-protection":"1; mode=block",
+   "Content-Length":"330",
+   "Expires":"Wed, 24 Jul 2024 12:33:53 GMT",
+   "Cache-Control":"max-age=0, no-cache, no-store",
+   "Pragma":"no-cache",
+   "Date":"Wed, 24 Jul 2024 12:33:53 GMT",
+   "Connection":"close"
+}
