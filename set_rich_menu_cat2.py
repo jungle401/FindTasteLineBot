@@ -68,28 +68,28 @@ rich_menu_to_create = RichMenu(
                 "data": "cat_minus"
             }
         ),
-        # restaurant
+        # hot pot
         RichMenuArea(
             bounds=RichMenuBounds(x=194, y=200, width=711, height=643),
             action={
                 "type": "postback",
-                "data": "restaurant"
+                "data": "火鍋"
             }
         ),
-        # cafe
+        # 麵食
         RichMenuArea(
             bounds=RichMenuBounds(x=905, y=200, width=708, height=643),
             action={
                 "type": "postback",
-                "data": "cafe"
+                "data": "麵食"
             }
         ),
-        # conv_store
+        # 便當
         RichMenuArea(
             bounds=RichMenuBounds(x=1613, y=200, width=705, height=643),
             action={
                 "type": "postback",
-                "data": "convenience_store"
+                "data": "便當"
             }
         ),
         # cat_add
@@ -108,7 +108,8 @@ print()
 print(rich_menu_id)
 print()
 
-with open("./rich_menus/images/sz2400x843/rm5.png", 'rb') as f:
+# with open("./rich_menus/sz2400x843/rm3.png", 'rb') as f:
+with open("./rich_menus/images/sz2400x843/c2s5.png", 'rb') as f:
     line_bot_api.set_rich_menu_image(rich_menu_id, 'image/png', f)
 
 line_bot_api.link_rich_menu_to_user(user_id, rich_menu_id)

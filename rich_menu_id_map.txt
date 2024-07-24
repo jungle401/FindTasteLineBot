@@ -1,0 +1,16 @@
+cat 0
+star 1
+richmenu-fe347e02fb95ac615c2449ca5b653dfc
+richmenu-2a36b8b941aa356c139e4b91f14d5049
+richmenu-4f1afefac6ca0dfaec11da09c689b72e
+richmenu-dbbc0bd5e0a3f3f9e6ef84ff797a51d4
+richmenu-cc4df6f91fa594108c846d735a307a6f
+
+
+cat 1
+star 1 ~ 5
+richmenu-770e2d7072ab7dcceb56cf940bc7d065
+richmenu-1dad5643d661953de3026071c1a607af
+richmenu-32101cfc767a989d5956a792641729fe
+richmenu-912432ee4746224b71d5fd23ab77d7f1
+richmenu-7ea468b7604d86007cd630b1da07de27

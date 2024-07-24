@@ -228,6 +228,7 @@ def handle_postback(event):
             line_bot_api.link_rich_menu_to_user(ID, "richmenu-e5bacd478acab1928620a759862d8de0")
         elif data == 'back':     #menu按上一頁
             line_bot_api.link_rich_menu_to_user(ID, "richmenu-f60fdf1ae4acfb2a3633e8a13379b8ea")
+
     except LineBotApiError:
         message = TextSendMessage(text="詢問前打招呼是基本的禮儀哦!")
         line_bot_api.reply_message(event.reply_token, message)  
