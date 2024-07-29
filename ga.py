@@ -182,9 +182,9 @@ def handle_postback(event):
             title=restaurant['name'],
             text=details,
             actions=[
-                MessageAction(
-                    label='Open in Google Map',
-                    text=map_url
+                URITemplateAction(
+                    label='Open in google map',
+                    uri=map_url
                 )
             ]
         )
