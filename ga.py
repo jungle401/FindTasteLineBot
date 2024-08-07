@@ -16,9 +16,9 @@ import googlemaps
 
 # Configurations
 app = Flask(__name__)
-access_token = 'DDOS1nJL2oxe7nmekZ0OhZTFSIG0RbR9RdOnM9wJnGBfQlrmvndAMt5khcI+0aTOHTh4iepuG0LPTTEhfWyChjUtmy/ARuqC5ga9DcD0LZOYrxmrmGYooplhWRWjOeB+k0ikq6gy0fBGPEr9rkCVCwdB04t89/1O/w1cDnyilFU='
-secret = 'e90e4acf2cce57e39e9c69032f23ea22'
-GOOGLE_API_KEY='AIzaSyBeYAAaSwCbvKcLBGinSfmApezIBOd1RK4'
+access_token = LINE_CHANNEL_ACCESS_TOKEN
+secret = LINE_CHANNEL_SECRET
+GOOGLE_API_KEY = GOOGLE_API_KEY_
 
 line_bot_api = LineBotApi(access_token)
 handler = WebhookHandler(secret)
@@ -113,6 +113,7 @@ def handle_postback(event):
     if address == '':
         get_location(event)
         return
+
     target_type = event.postback.data
 
     addurl = 'https://maps.googleapis.com/maps/api/geocode/json?key={}&address={}&sensor=false'.format(GOOGLE_API_KEY, address)
@@ -160,7 +161,6 @@ def handle_postback(event):
 
     carousel_template = CarouselTemplate()
     for restaurant in selected_restaurants:
-    # restaurant = top20_restaurants[random.choice(bravo)]
         if restaurant.get("photos") is None:
             thumbnail_image_url = None
         else:
@@ -174,6 +174,7 @@ def handle_postback(event):
         if address == "沒有資料":
             address = restaurant["formatted_address"]
         details = "Google Map評分:{}\n地址:{}".format(rating, address)
+
         # google map url for restaurants
         map_url = f"https://www.google.com/maps/search/?api=1&query={restaurant['geometry']['location']['lat']},{restaurant['geometry']['location']['lng']}&query_place_id={restaurant['place_id']}"
 

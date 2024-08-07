@@ -9,6 +9,10 @@
 A line bot provide fast search for restaurants or like using google map API.
 
 ---
+## Tutorial
+You may refer to the [development process](https://dog-hip-46a.notion.site/LineBot-TasteAdvisor-f55c6072cbb942469e61fa34725542d0#fcff606b8dd74860860106ce4faf4f32)
+
+---
 ## Example
 ![screen shots](images/demo.png)
 
